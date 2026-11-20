@@ -27,9 +27,7 @@
 <a href="https://www.linkedin.com/in/saloninathani/">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-<a href="
 <a href="./Saloni_Nathani_Resume.pdf">
-">
 <img src="https://img.shields.io/badge/VIEW_RESUME-FF4FD8?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
