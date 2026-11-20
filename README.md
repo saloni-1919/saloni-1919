@@ -27,7 +27,9 @@
 <a href="https://www.linkedin.com/in/saloninathani/">
 <img src="https://img.shields.io/badge/LET'S_CONNECT-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
-<a href="PASTE_RESUME_LINK_HERE">
+<a href="
+<a href="./Saloni_Nathani_Resume.pdf">
+">
 <img src="https://img.shields.io/badge/VIEW_RESUME-FF4FD8?style=for-the-badge&logo=readthedocs&logoColor=white"/>
 </a>
 
@@ -263,15 +265,15 @@ I'm interested in opportunities, collaborative projects, and innovative ideas in
 
 <br/>
 
-<a href="PASTE_LINKEDIN_LINK_HERE">
+<a href="https://www.linkedin.com/in/saloninathani/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-00D9FF?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-<a href="PASTE_PORTFOLIO_LINK_HERE">
+<a href="https://saloni-1919.github.io/saloni-portfolio/">
 <img src="https://img.shields.io/badge/Portfolio-Explore-9D4EDD?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
-<a href="mailto:PASTE_EMAIL_HERE">
+<a href="mailto:saloninathani19@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-FF4FD8?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
